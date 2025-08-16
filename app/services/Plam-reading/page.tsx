@@ -5,16 +5,12 @@ import React from "react";
 
 const contentData = [
   {
-    paragraph1:
-      "The arc of the life line deﬁnes the root of the thumb, which is the mount of the Sun, the reservoir of our vitality. The larger the arc, the stronger that person’s natural physical reserves—the tanks are full, and the owner has a deep well of energy, stamina, and enthusiasm to share with the world. The depth of the life line describes the quality of our physical vitality, the conduit of our energy out into the world. A deep life line indicates that the owner has a powerful ability to express her energy, and every opportunity to live a long and successful life. She may be impatient with lesser mortals who tire more easily, and be inclined to pour all that energy into her temperament or temper. To balance: Some of this vitality can be worked out physically, and it would be a good idea to cultivate patience, as well as empathy with those gifted with subtler energy.",
-    header: "Does Each Lines Carry Its Own Meaning?",
-    imageSrc:
-      "/images/service/plam/one1.jpg",
-    paragraph2:
-      "It begins where the story of our psyche begins, connected to our childhood at the root of our life line, and is found between thumb and foreﬁnger. The length of the head line does not show how intelligent we are but the breadth of our interests. Its arc and depth describe the power and attitude of the mind. ",
-    paragraph3:
-      "A straight and level head line shows a level headed person, who is keen on common sense and logical evidence, and less interested in theory or exploring alternatives. This person will be interested in science, a structured and practical profession, or one that follows a time-honoured tradition. Our emotional lives are complex, and not deﬁned by one line. We can’t look at a hand and tell from the lines if its owner will be happily married to a black-haired stranger by the age of 36. But reading the hand can help you to know what to do with your one wild and precious heart, and maximize the potential for comfortable and easy relationships."
-  },
+  header: "Does Each Line Carry Its Own Meaning?",
+  paragraph1:
+    "The arc of the life line defines the root of the thumb, also known as the mount of the Sun in palmistry, which acts as the reservoir of vitality and energy. In astrology and palm reading, the larger the arc, the stronger a person’s natural reserves—the tanks are full, and the owner has stamina, enthusiasm, and life force to share with the world. A deep life line reveals powerful energy, with great potential for a long and successful life. Such individuals may become impatient with those who tire easily, often channeling this vitality into their temperament. Palmistry experts recommend balancing this energy through physical activity and patience. Psychic Krishna Sai, a renowned Palm Specialist, provides accurate readings to decode your life line and destiny. With the guidance of Psychic Krishna Sai, an experienced Palm Specialist, you can uncover the hidden truths of your future and align with positive energy.",
+  imageSrc: "/images/service/plam/one1.jpg",
+}
+,
   {
     paragraph1:
       "People with water hands have long, rectangular palms and long fingers. Water hands are typically graceful and delicate. Their palms are usually narrow and covered with thin, fine lines. People with water hands often have soft, shiny skin that is sometimes clammy or damp to the touch. The zodiac signs are also based on the elements, but your hand shape and astrological sign might not match up. If you’re a fiery Leo and have water hands, that’s completely normal; it just adds to the interesting makeup of who you are!",

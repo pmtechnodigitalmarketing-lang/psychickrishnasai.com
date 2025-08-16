@@ -4,48 +4,46 @@ import React from 'react';
 
 const contentData = [
   {
-    header: 'Business Challenges',
-    paragraph1:
-      'Facing constant losses, blocked deals, Owning a business may be demanding, and owners frequently deal with a great deal of pressure and uncertainty. By looking at their birth charts, astrologers may assist businesspeople in better understanding their own emotional and mental tendencies. This increased self-awareness can help with decision-making, stress management, and general wellbeing, which strengthens one’s ability to overcome challenges.',
-    imageSrc:
-      '/images/service/business/five1.jpg',
-    paragraph2:
-      'Business obstacles often arise due to hidden cosmic disturbances or negative planetary alignments.Astrologers can offer extra viewpoints when it comes to making important business decisions. They can identify potential hazards and difficulties that could otherwise go undiscovered by examining the astrological indicators connected to a certain decision.',
-    paragraph3:
-      'Understanding the root astrological reasons is essential before applying remedies It is crucial to stress that, even while astrology can offer insightful guidance, business decisions shouldn’t primarily be based on astrological advice. Instead, think of it as just one of the numerous tools a business owner has at his or her disposal, along with market research, financial analysis, and strategic planning..',
-  },
+  header: 'Business Challenges',
+  paragraph1:
+    "Running a business often comes with constant pressure, uncertainty, and challenges. Psychic Krishna Sai, a renowned Business Problem Specialist, explains that many obstacles are not only practical but also connected to cosmic and planetary influences. Psychic Krishna Sai guides entrepreneurs with astrological insights, while a Business Problem Specialist helps them recognize emotional strengths, decision-making patterns, and stress levels. This awareness empowers business owners to manage challenges wisely and build resilience for long-term success.",
+  imageSrc: '/images/service/business/five1.jpg',
+  paragraph2:
+    "Many business obstacles arise from hidden cosmic disturbances or negative planetary alignments. Consulting Psychic Krishna Sai, the trusted Business Problem Specialist, can reveal unseen risks and guide entrepreneurs to make well-informed decisions while avoiding setbacks. With the expertise of a Business Problem Specialist, challenges can be turned into opportunities for growth.",
+  paragraph3:
+    "Astrology provides valuable insights, but it should work alongside market research, financial analysis, and strategic planning. Psychic Krishna Sai emphasizes that by combining spiritual guidance with the support of a Business Problem Specialist, business owners can strengthen their foundation for success and prosperity.",
+}
+,
   {
     header: 'Causes of Failure',
     paragraph1:
-      'Weak Jupiter or Mercury, Rahu-Ketu doshas, or malefic Saturn can result in setbacks.f in your Horoscope you Find Surya weak then there are many possibilities that it is affecting your Business. There are some Mantras that you can try to make your Horoscope and Business better.When your Horoscope is Defining Surya Weak then it could be the major reason for your Business Failure.',
+      "Astrology highlights that weak Jupiter or Mercury, Rahu-Ketu doshas, or malefic Saturn can bring setbacks. If the Sun (Surya) appears weak in your horoscope, it can significantly affect business growth. Psychic Krishna Sai, as a Business Problem Specialist, recommends powerful mantras and remedies to strengthen planetary positions and protect businesses from repeated failures.",
     imageSrc:
       'https://astrotalk.com/astrology-blog/wp-content/uploads/2019/08/business-losses-1-768x502.jpg',
     paragraph2:
-      'Vastu defects in offices or shops also contribute to recurring business issues.Swarn Dosh affects your Business and Money that you have Generated through your Business. If you have Swarn Dosh in your Horoscope then you will lose all the money that you have earned through your Business and your Business will Go Down after some Point.',
+      "Apart from planetary effects, Vastu defects in offices or shops can lead to losses. Swarn Dosh is another astrological condition that can drain profits. Without proper remedies, even successful businesses may face sudden downfall.",
     paragraph3:
-      'Unfavorable timing for investment or partnerships worsens the situation. When in your Horoscope Mangal and Shani are not at suitable places then you should not start a business. Expert astrologers suggest that you should find astrology behind business failure but never ignore your horoscope.',
+      "Unfavorable timing for investments or partnerships also contributes to failure. This is why consulting Psychic Krishna Sai, a Business Problem Specialist, ensures that ventures start during auspicious periods for maximum success.",
   },
   {
     header: 'Astrological Remedies',
     paragraph1:
-      'Our astrologers suggest yantras, gemstones, and mantras tailored to your business horoscope.Astrological remedies for business success involve utilizing astrological principles and practices to overcome challenges and enhance prosperity. These remedies often focus on strengthening beneficial planetary influences, mitigating negative planetary effects, and aligning with auspicious timings and directions. ',
-    imageSrc:
-      '/images/service/business/five2.jpg',
+      "Psychic Krishna Sai suggests yantras, gemstones, and mantras uniquely aligned with your business horoscope. As a Business Problem Specialist, he provides personalized remedies to strengthen positive planetary influences while reducing the effects of malefic ones.",
+    imageSrc: '/images/service/business/five2.jpg',
     paragraph2:
-      'Special poojas or homams can neutralize negative influences from business charts.Worshipping Goddess Lakshmi on Fridays with white flowers and sweets invites prosperity.  Keeping their idol in the northeast direction of the workplace, lighting a ghee diya, and offering prayers can help remove obstacles. ',
+      "Special poojas, homams, and rituals guided by Psychic Krishna Sai can neutralize negative influences. Worshipping Goddess Lakshmi on Fridays with white flowers and sweets, keeping her idol in the northeast, and offering prayers can invite prosperity and stability.",
     paragraph3:
-      'Regular spiritual consultation helps keep your business aligned with planetary energies.Astrological remedies should be combined with honesty, hard work, and ethical business practices for optimal results. ',
+      "Astrological remedies are most effective when combined with honesty, dedication, and ethical business practices. Regular spiritual consultation with Psychic Krishna Sai keeps your business aligned with favorable planetary energies.",
   },
   {
     header: 'Success Strategies',
     paragraph1:
-      'Choose auspicious dates for launches or new deals based on your birth chart. Business astrology offers strategies for success by aligning business decisions with astrological insights derived from birth charts and planetary movements. This includes strategic timing for launches and promotions, identifying ideal team members, and understanding industry trends ahead of time. ',
-    imageSrc:
-      '/images/service/business/five3.jpg',
+      "Choosing auspicious dates for product launches, deals, and investments based on your horoscope brings greater success. Psychic Krishna Sai, an experienced Business Problem Specialist, provides strategies rooted in astrology to help entrepreneurs make confident and timely decisions.",
+    imageSrc: '/images/service/business/five3.jpg',
     paragraph2:
-      'Implement Vastu-compliant workspace and attract positive energies.By analyzing birth charts and utilizing remedies like gemstone therapy and Vedic fire rituals, businesses can navigate challenges and enhance their prospects. ',
+      "Along with Vastu-compliant workspaces, remedies like gemstone therapy and Vedic rituals suggested by Psychic Krishna Sai help attract positive energies and opportunities. These practices strengthen business growth and create stability.",
     paragraph3:
-      'Stay spiritually strong and confident with guidance from divine astrology. Astrology can help identify potential challenges and suggest remedies to mitigate negative influences. ',
+      "By staying spiritually strong, confident, and aligned with astrological insights, business owners can overcome challenges and achieve long-term prosperity. Psychic Krishna Sai’s guidance ensures you remain prepared for both opportunities and obstacles.",
   },
 ];
 

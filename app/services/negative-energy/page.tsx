@@ -14,16 +14,17 @@ interface ContentItem {
 
 const contentData: ContentItem[] = [
   {
-    header: "Understanding Negative Energy",
-    paragraph1:
-      "Negative energy surrounds us due to stress, jealousy, past karma, or spiritual imbalance. In astrology, negative energy is often linked to malefic planetary influences, weak planetary placements, or past karmic imbalances. When left unaddressed, these issues can intensify and affect different aspects of life.",
-    imageSrc:
-      "/images/service/energy/one1.jpg",
-    paragraph2:
-      "It can enter our lives through people, environments, or personal thoughts. Saturn is a karmic planet, and its Sade Sati or Dhaiya phases can bring financial troubles, mental stress, and delays in important work. Rahu and Ketu are shadow planets associated with illusions and sudden changes. Their negative influence can lead to confusion, stress, and even obstacles in career and relationships.",
-    paragraph3:
-      "Awareness is key to identifying its presence and neutralizing it. Negative energy can also accumulate due to incorrect Vastu placements. Rudraksha beads are powerful spiritual tools that protect against negativity and enhance inner peace.",
-  },
+  header: "Understanding Negative Energy",
+  paragraph1:
+    "Negative energy surrounds us due to stress, jealousy, past karma, or spiritual imbalance. In astrology, it is often linked to malefic planetary influences, weak placements, or karmic debts. Psychic Krishna Sai, a renowned Negative Energy Specialist, identifies these harmful vibrations and offers remedies to cleanse them. When left unaddressed, such influences can intensify and disturb health, relationships, and success.",
+  imageSrc:
+    "/images/service/energy/one1.jpg",
+  paragraph2:
+    "It can enter our lives through people, environments, or personal thoughts. Saturn’s karmic phases like Sade Sati or Dhaiya may bring delays and hardships, while Rahu and Ketu create illusions, confusion, and sudden changes. With guidance from Psychic Krishna Sai, who is trusted as a Negative Energy Specialist, one can perform rituals, mantras, and remedies to reduce their harmful impact.",
+  paragraph3:
+    "Awareness is key to identifying its presence and neutralizing it. Negative energy may also accumulate due to incorrect Vastu placements. Protective tools like Rudraksha beads, along with astrological guidance from Psychic Krishna Sai, help shield your aura, restore peace, and enhance positivity in life.",
+}
+,
   {
     header: "How It Affects You",
     paragraph1:

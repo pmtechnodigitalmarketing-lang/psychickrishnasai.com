@@ -22,7 +22,7 @@ export default function Header() {
     { name: "Palm Reading", path: "/services/Plam-reading" },
     { name: "Black Magic", path: "/services/black-magic" },
     { name: "Love Marriage", path: "/services/love-marriage" },
-    { name: "Love Problem", path: "/services/love-problem" },
+    { name: "Get Ex Love Back", path: "/services/love-problem" },
     { name: "Family Problem", path: "/services/family-problem" },
     { name: "Business Problem", path: "/services/business-problem" },
     { name: "Evil Eye", path: "/services/evil-eye" },

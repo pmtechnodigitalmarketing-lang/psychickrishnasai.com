@@ -15,13 +15,13 @@ const items = [
 		title: "Love Marriage",
 		img: "/images/service/Lovemarriage.jpg",
 		link: "/services/love-marriage",
-		desc: "Expert guidance on love marriage and relationship alignment.",
+		desc: "Expert guidance on love marriage.",
 	},
 	{
 		title: "Love Problem",
 		img: "/images/service/Loveproblem.jpg",
 		link: "/services/love-problem",
-		desc: "Resolve misunderstandings and restore harmony in love life.",
+		desc: "Expert guidance on get EX Love Back.",
 	},
 	{
 		title: "Black Magic Removal",

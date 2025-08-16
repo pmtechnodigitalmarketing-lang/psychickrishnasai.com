@@ -17,7 +17,7 @@ export default function Footer() {
             About Us
           </h3>
           <p className="text-sm leading-relaxed">
-            Master Krishna Sai offering love marriage, love problem, and palm reading
+            Psychic Krishna Sai offering love marriage, love problem, and palm reading
             services with trusted guidance grounded in Vedic wisdom.
           </p>
         </div>

@@ -5,48 +5,45 @@ import React from "react";
 
 const contentData = [
   {
-    header: "What is Black Magic?",
-    paragraph1:
-      "Black magic also known as witchcraft is usage of supernatural power for evil and selfish purposes and to perform malicious practices to destroy someone physically or mentally or financially. It can be done using the victims hair, clothes, photo or looking directly into eyes. Practicing black magic is not something new, it has been practiced since generations and hence we need to be very careful in this time of Kalyug where you are surrounded by very few well-wishers.",
-    imageSrc:
-      "/images/service/black/second1.jpg",
-    paragraph2:
-      "Black magic, also known as dark magic or witchcraft, is the practice of using supernatural powers for harmful, selfish, or evil purposes. It often involves spells, curses, rituals, or the manipulation of evil spirits to cause harm, control, or manipulate others.",
-    paragraph3:
-      "At a large area in the heart of the city like Bangkok’s Ratchaprasong intersection – the hub of economic trade and shopping, we also find a center of objects that both Thais and foreigners like to worship and pray to for success in work, good fortune, love, and relationships.",
-  },
+  header: "What is Black Magic?",
+  paragraph1:
+    "Psychic Krishna Sai, a renowned Black Magic Specialist, explains that black magic, also known as witchcraft, is the usage of supernatural power for selfish or harmful purposes. As a trusted guide, Psychic Krishna Sai provides protection and remedies when someone uses black magic to damage others physically, mentally, or financially with the victim’s hair, clothes, photo, or even eye contact. This practice has existed for generations, and in this age of Kalyug, where true well-wishers are few, we must remain cautious and seek the support of an experienced Black Magic Specialist.",
+  imageSrc: "/images/service/black/second1.jpg",
+  paragraph2:
+    "Black magic, also referred to as dark magic or witchcraft, involves invoking supernatural powers for destructive intentions. Spells, curses, and rituals may be used to control or harm others, which is why guidance from Psychic Krishna Sai, the leading Black Magic Specialist, is essential to safeguard against such negative forces. With his deep expertise, Psychic Krishna Sai helps individuals break free from curses and regain peace of mind with the support of a powerful Black Magic Specialist.",
+  paragraph3:
+    "In many cultures and cities, including spiritual hubs like Bangkok’s Ratchaprasong intersection, people pray for blessings in work, fortune, love, and relationships. But just as there are divine energies, there are also dark forces—making protection from black magic crucial. Psychic Krishna Sai offers spiritual remedies as a trusted Black Magic Specialist to ensure people remain protected, balanced, and free from harmful energies.",
+}
+,
   {
     header: "Symptoms of Black Magic",
     paragraph1:
-      "Usually, there are different signs through which you can understand if a person is going through black magic or not. These symptoms can be health issues, behavioural changes, bad luck or nightmares. Let me explain to you the signs of black magic done on you.If a person is under the spell of a black magic then they can have unexplained health issues like stomach issues, headaches, body aches and sudden loss of weight.",
-    imageSrc:
-      "/images/service/black/second2.jpg",
+      "According to Psychic Krishna Sai, there are different signs that reveal if a person is under black magic. These include sudden health problems, behavioral changes, financial loss, or disturbed sleep. Common symptoms can be unexplained stomach issues, headaches, body aches, or drastic weight changes.",
+    imageSrc: "/images/service/black/second2.jpg",
     paragraph2:
-      "If you feel that a person has started behaving strangely and has been having extreme mood swings then it may be because of black magic. The person me exhibit extreme anger or irritability and also may become reclusive. A person under the spell of black magic may have vivid nightmares and a very disturbed sleep pattern.",
+      "A person influenced by black magic may display extreme anger, mood swings, or reclusive behavior. Vivid nightmares, disturbed sleep, and constant irritation are also strong indicators. Only a skilled Black Magic Specialist can identify whether these issues are spiritual or psychological in nature.",
     paragraph3:
-      "Black magic may also impact your luck and finances. People under the spell of black magic may go through a loss of income or unforeseen and unfortunate incidents.",
+      "Black magic can also affect financial stability. Victims may face unexpected income loss or constant misfortune, which often requires spiritual remedies to reverse.",
   },
   {
     header: "Removal Process",
     paragraph1:
-      "Removing black magic involves rituals, chants, and spiritual remedies. You need to understand that energy is just energy; it is neither divine nor is it evil. You can make anything – a god or a devil – out of it. It is like electricity. Is electricity the divine or the devil? When it is lighting your house, it is the divine.  If it becomes an electric chair, it is the devil. It just depends on who is operating it at that moment.",
-    imageSrc:
-      "/images/service/black/second3.jpg",
+      "Psychic Krishna Sai provides effective solutions for removing black magic through spiritual remedies, chants, and protective rituals. Energy itself is neutral—like electricity—it can be divine or destructive depending on how it is used. A Black Magic Specialist understands this energy balance and channels it positively to restore harmony.",
+    imageSrc: "/images/service/black/second3.jpg",
     paragraph2:
-      "So can people do black magic? Definitely they can. If positive uses are there, negative uses are also there. One Veda, the Atharvana Veda is dedicated to the use of energies for both positive and negative. But what I have seen is, most of the time these things are psychological. A little bit of it may be there, but the rest of it is your own mind driving you crazy. If I want to drive you crazy, I do not have to do any actual black magic. Tomorrow morning when you come out of your house, suppose there is a skull and some blood all over the place, once you see this, that’s it!",
+      "While black magic practices exist, Psychic Krishna Sai emphasizes that many cases are psychological, where fear itself becomes the real curse. Still, genuine black magic does exist, and with expert intervention it can be neutralized safely.",
     paragraph3:
-      "Avoid trying to remove it yourself as it may worsen the condition. You will become ill, your business will go bad, everything negative will happen to you because of a certain fear grips you. No black magic has been done. Just certain symbols which indicate that this seems to be some kind of black magic will destroy your mind. So most of the time, it is just psychological. Even if black magic is done to you, only ten percent may be the real thing. The rest of it is you destroying yourself.",
+      "Avoid attempting removal yourself, as it may worsen the situation. Professional guidance from a Black Magic Specialist is necessary to break the cycle of fear, negativity, and recurring obstacles caused by such forces.",
   },
   {
     header: "Protection Techniques",
     paragraph1:
-      "Protective mantras, talismans, and regular cleansing can prevent black magic. Even since we were young, our parents have ingrained in us the practice of bathing at least once a day. If need be, sometimes we bathe 2 or 3 times a day. This helps to clean our physical body. It also has a spiritual benefit to some extent. Unfortunately, what most of us have not learnt is that we also have to clean ourselves at a spiritual level on a daily basis. A black energy covering invariably gets formed around us on an everyday basis. Most of us cannot perceive it as it is subtle in nature, but it affects us negatively at a physical, psychological and spiritual level.",
-    imageSrc:
-      "/images/service/black/second4.jpg",
+      "Psychic Krishna Sai, a trusted Black Magic Specialist, advises that prevention is as important as removal. Protective mantras, talismans, and spiritual cleansing rituals should be practiced regularly. Just as daily bathing cleanses the body, spiritual practices cleanse the aura and prevent the buildup of dark energies.",
+    imageSrc: "/images/service/black/second4.jpg",
     paragraph2:
-      "Through spiritual practice, one gains the subtle ability to perceive a black energy covering. When such people look at a person with black energy covering, they will feel that they cannot see the person’s face clearly. It will appear hazy to them. When in close proximity to a person with a black covering, one can experience subtle pressure, nausea and at times a foul odour as well.",
+      "Through consistent spiritual practice, one develops sensitivity to detect negative energy. People with strong spiritual awareness often notice haziness, pressure, or nausea around those affected by black energy. Such early detection can prevent further harm.",
     paragraph3:
-      "The extent of a black energy covering can only be correctly understood through the medium of an advanced level of sixth sense. Those who have an advanced level of sixth sense of vision will be able to observe the extent of the covering visually.",
+      "Only those with advanced sixth sense can perceive the full extent of black energy coverings. This is why consulting Psychic Krishna Sai, an experienced Black Magic Specialist, is vital for long-term protection and peace of mind.",
   },
 ];
 

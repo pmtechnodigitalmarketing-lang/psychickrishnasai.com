@@ -5,17 +5,18 @@ import React from 'react';
 
 
 const contentData = [
-  {
-    header: 'Common Love Issues',
-    paragraph1:
-      'Breakups, misunderstandings, loss of spark, or interference from third parties. Common love problems that astrology can address include communication breakdowns, lack of interest, frequent arguments, family objections, inter-caste marriage issues, long-distance relationship challenges, one-sided love, and compatibility issues. Astrology analyzes planetary positions, particularly Venus, Mars, and the 7th house, to understand the root causes of these problems and offer remedies.',
-    imageSrc:
-      'https://astrotalk.com/astrology-blog/wp-content/uploads/2023/07/shutterstock_323647400.jpg',
-    paragraph2:
-      'Love problems can create emotional distress and confusion. Poor communication can lead to misunderstandings and emotional distance. Mercury, the planet of communication, is often cited as a key factor. Its placement and aspects in the birth chart can reveal potential communication challenges.',
-    paragraph3:
-      'They often arise unexpectedly and require delicate resolution. A partner losing interest can stem from various factors, including a lack of passion or a decline in the initial attraction. Venus, the planet of love and beauty, is crucial here. Its placement can indicate the level of devotion and passion in a relationship.',
-  },
+{
+  header: "Common Love Issues",
+  paragraph1:
+    "Breakups, misunderstandings, loss of spark, or interference from third parties often disturb relationships. Common love problems that astrology can address include communication breakdowns, lack of interest, frequent arguments, family objections, inter-caste marriage issues, long-distance relationship challenges, one-sided love, and compatibility issues. Psychic Krishna Sai, a trusted Get Ex Love Back Specialist, uses astrology to analyze planetary positions—especially Venus, Mars, and the 7th house—to uncover the hidden reasons behind these struggles and suggest remedies.",
+  imageSrc:
+    "https://astrotalk.com/astrology-blog/wp-content/uploads/2023/07/shutterstock_323647400.jpg",
+  paragraph2:
+    "Love problems can create emotional distress and confusion. Poor communication often leads to misunderstandings and emotional distance. Mercury, the planet of communication, plays a vital role. A Get Ex Love Back Specialist like Psychic Krishna Sai examines Mercury’s placement and aspects in the birth chart to reveal communication challenges and offer effective solutions.",
+  paragraph3:
+    "Love challenges often arise unexpectedly and require delicate handling. A partner losing interest may be due to planetary misalignments or emotional disconnection. With the guidance of Psychic Krishna Sai, couples can restore trust, passion, and harmony—proving why consulting a Get Ex Love Back Specialist is the key to reuniting hearts and overcoming relationship struggles.",
+}
+,
   {
     header: 'Astrological Reasons',
     paragraph1:
@@ -51,7 +52,7 @@ const contentData = [
   },
 ];
 
-const title = "Love Problem Solutions";
+const title = "Get Ex Love Back ";
 const bannerImage = "/images/services/love-problem-banner.jpg"; // Update this path as needed
 
 const LoveProblem = () => {

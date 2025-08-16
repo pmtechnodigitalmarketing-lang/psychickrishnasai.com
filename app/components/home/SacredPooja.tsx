@@ -11,7 +11,7 @@ const poojaData = [
     title: "Kali Maa Pooja",
     duration: "2.5 Hours",
     description:
-      "Master Krishna Sai performs powerful rituals to invoke Goddess Kali for protection, strength, and the removal of negative energies—bringing peace, power, and transformation to your life.",
+      "Maste Krishna Sai performs powerful rituals to invoke Goddess Kali for protection, strength, and the removal of negative energies—bringing peace, power, and transformation to your life.",
     tags: ["Protection", "Transformation"],
     image: "/images/pooja/Kalli.jpg",
   },

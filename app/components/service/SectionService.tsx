@@ -2,7 +2,29 @@
 import React from "react";
 import { motion } from "framer-motion";
 import Breadcrumb from "../Breadcrumb";
-import Image from "next/image";
+
+// 🔑 Keywords to highlight
+const highlightKeywords = [
+  "Black Magic Specialist",
+  "Psychic Krishna Sai",
+  "Love Marriage",
+  "Palm Reading",
+  "Evil Eye",
+  "Family Problem",
+  "Health Problem",
+  "Business Success Prediction",
+  "Ex Love Back"
+];
+
+// ✅ Function to replace keywords with <b>
+function highlightText(text: string) {
+  let result = text;
+  highlightKeywords.forEach((word) => {
+    const regex = new RegExp(`(${word})`, "gi");
+    result = result.replace(regex, "<b>$1</b>");
+  });
+  return result;
+}
 
 interface SectionItem {
   header: string;
@@ -29,21 +51,19 @@ const SectionService: React.FC<SectionServiceProps> = ({
       <section
         className="relative bg-center bg-cover bg-no-repeat flex items-center justify-center"
         style={{
-          backgroundImage: `url('/images/Service.jpg')`, // <-- Add your image path here
+          backgroundImage: `url('/images/Service.jpg')`,
           height: "320px",
         }}
       >
         <div className="absolute inset-0 bg-black/60" />
         <div className="relative z-10 flex flex-col items-center justify-center w-full h-full">
-          {/* Breadcrumb with glass effect */}
+          {/* Breadcrumb */}
           <div className="mb-4">
             <div className="backdrop-blur-md bg-white/20 rounded-full px-6 py-2 shadow-lg flex items-center gap-2">
               <Breadcrumb />
             </div>
           </div>
-          {/* Decorative accent */}
           <span className="text-yellow-400 text-3xl mb-2">✦</span>
-          {/* Title */}
           <h1 className="text-4xl md:text-6xl font-extrabold text-white drop-shadow-lg mb-2 text-center">
             {title}
           </h1>
@@ -51,7 +71,7 @@ const SectionService: React.FC<SectionServiceProps> = ({
       </section>
 
       {/* Content Sections */}
-      <section className="bg-gradient-to-b from-[#1c1c1c] to-[#2a2a2a] py-16 px-4">
+      <section className="bg-gradient-to-b bg-white py-16 px-4">
         <div className="max-w-6xl mx-auto space-y-16">
           {contentData.map((item, index) => {
             const reverse = index % 2 !== 0;
@@ -76,19 +96,25 @@ const SectionService: React.FC<SectionServiceProps> = ({
                     />
                   </div>
                 </div>
-                {/* Content Card */}
+
+                {/* Content */}
                 <div className="md:w-1/2 w-full">
                   <div className="bg-white/10 rounded-2xl shadow-lg p-8 border-l-8 border-yellow-500">
                     <h2 className="text-2xl md:text-3xl font-bold text-yellow-400 mb-4">
                       {item.header}
                     </h2>
-                    <p className="text-gray-200 mb-4 text-lg">{item.paragraph1}</p>
-                    {item.paragraph2 && (
-                      <p className="text-gray-300 mb-3">{item.paragraph2}</p>
-                    )}
+
+                    {/* Highlighted Paragraph */}
+                    <p
+                      className="text-black mb-4 text-lg"
+                      dangerouslySetInnerHTML={{
+                        __html: highlightText(item.paragraph1),
+                      }}
+                    />
+{/* 
                     {item.paragraph3 && (
                       <p className="text-gray-400">{item.paragraph3}</p>
-                    )}
+                    )} */}
                   </div>
                 </div>
               </motion.div>

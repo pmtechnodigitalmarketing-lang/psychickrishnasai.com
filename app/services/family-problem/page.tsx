@@ -2,52 +2,51 @@ import Faq from "@/app/components/home/Faq";
 import SectionService from "@/app/components/service/SectionService";
 import React from "react";
 
-
-
 const contentData = [
-  {
-    header: "Root of Conflicts",
-    paragraph1:
-      "Family issues may include misunderstandings, disrespect, or a lack of emotional connection. Astrology can offer insights into the roots of family conflicts by analyzing planetary positions and aspects in birth charts, potentially revealing underlying tensions and patterns. Specifically, Vedic astrology examines houses related to family (2nd, 4th, 7th) and their lords, looking for afflictions from malefic planets like Saturn, Rahu, Ketu, and Mars, which can indicate misunderstandings and quarrels.",
-    imageSrc:
-      "https://www.bengalijyotishcenter.com/wp-content/uploads/2025/05/2148548614.jpg",
-    paragraph2:
-      "Ego clashes and generational gaps often cause emotional distance. Family is the foundation of our lives. But when issues arise—be it between parents and children, husband and wife, in-laws, or siblings—it affects everyone’s mental and emotional well-being. These problems often start small but grow bigger over time due to misunderstandings, ego clashes, jealousy, or external influences like financial stress or black magic.",
-    paragraph3:
-      "These conflicts grow when not resolved with compassion and understanding. Our expert offers deep insight through Vedic astrology and provides powerful, personalized remedies to resolve family disputes.",
-  },
+{
+  header: "Root of Conflicts",
+  paragraph1:
+    "Family issues such as misunderstandings, disrespect, or emotional disconnection often disturb peace at home. Psychic Krishna Sai, a renowned Family Problem Specialist, explains that astrology can reveal hidden causes of disputes by analyzing planetary positions. According to Psychic Krishna Sai, Vedic astrology specifically studies the 2nd, 4th, and 7th houses in a birth chart—when afflicted by Saturn, Rahu, Ketu, or Mars, they can trigger quarrels and misunderstandings.",
+  imageSrc:
+    "https://www.bengalijyotishcenter.com/wp-content/uploads/2025/05/2148548614.jpg",
+  paragraph2:
+    "Ego clashes, generational gaps, and financial stress are common triggers. When conflicts arise—between parents and children, husband and wife, in-laws, or siblings—they affect the entire family’s emotional well-being. The guidance of a Family Problem Specialist helps to uncover these hidden issues and provide remedies to restore balance.",
+  paragraph3:
+    "Astrology provides clarity on these underlying causes and offers practical solutions. Consulting an experienced Family Problem Specialist like Psychic Krishna Sai ensures harmony is rebuilt through spiritual remedies and compassionate guidance.",
+}
+,
   {
     header: "Astrological Causes",
     paragraph1:
-      "Planetary positions, especially Moon, Mars, and Rahu, can cause disharmony in families. Negative influences on the 4th house, representing family, or the Moon, symbolizing emotions, can lead to discord. Malefic planets like Saturn, Mars, Rahu, and Ketu can also trigger conflicts. Pitra Dosh, an ancestral influence, may manifest as ongoing health issues, financial instability, or emotional distress within the family.",
+      "Planetary placements such as Moon, Mars, Rahu, and Saturn strongly influence family dynamics. Negative aspects on the 4th house—the house of family—often bring emotional stress. Psychic Krishna Sai, an experienced Family Problem Specialist, explains that Pitra Dosh or ancestral imbalances can also cause recurring issues such as health problems, financial instability, and family disharmony.",
     imageSrc:
       "https://www.astrotaare.com/uploads/blogs/1699002784WhatsApp%20Image%202023-11-03%20at%2014.41.35.jpeg",
     paragraph2:
-      "Weak 4th house or presence of doshas in the family chart leads to emotional breakdown. Family is the cornerstone of our lives, the place where we seek love, support, and a sense of belonging. However, family problems are an inevitable part of life, and they can sometimes leave us feeling lost and overwhelmed.",
+      "Weak family houses or specific doshas in the horoscope can lead to emotional breakdowns and constant misunderstandings. Astrology helps reveal these hidden patterns and provides targeted remedies.",
     paragraph3:
-      "Timing of specific phases (like Sade Sati) also intensifies family tensions. The sun sign represents an individual’s core personality. Understanding each family member’s sun sign can provide insight into their basic characteristics and tendencies.",
+      "Even planetary cycles like Sade Sati can intensify family stress. Understanding these astrological timings with the help of a Family Problem Specialist like Psychic Krishna Sai ensures better preparedness and harmony.",
   },
   {
     header: "Spiritual Solutions",
     paragraph1:
-      "Performing Graha Shanti, Navagraha poojas, and chanting family harmony mantras brings relief. Analyzing birth charts to identify the root causes of conflicts and suggesting remedies like mantras, gemstones, and rituals to restore harmony. These remedies aim to balance planetary influences and promote positive communication, understanding, and unity within the family.",
+      "Psychic Krishna Sai recommends spiritual remedies such as Graha Shanti, Navagraha poojas, and chanting family harmony mantras. As a trusted Family Problem Specialist, he analyzes horoscopes to suggest mantras, gemstones, and rituals that resolve family conflicts and bring peace at home.",
     imageSrc:
       "https://d2vlk40wphb5v6.cloudfront.net/public/cms-images/blogs/132507395_4-Best-Astrological-Remedies-for-Family-Issues.jpg",
     paragraph2:
-      "Consulting an astrologer for joint family horoscope evaluation is highly recommended. Astrologers analyze birth charts (horoscopes) of family members to understand the underlying astrological influences contributing to family conflicts.",
+      "Joint horoscope analysis of family members often reveals the deeper causes of conflicts. Remedies aligned with these insights help reduce emotional strain and encourage unity.",
     paragraph3:
-      "Divine remedies help to align family energies and open paths for bonding. This analysis helps pinpoint specific planetary imbalances or negative aspects that may be causing discord.",
+      "By applying these divine remedies, families can restore balance, promote forgiveness, and open the door to love and mutual respect.",
   },
   {
     header: "Peaceful Living",
     paragraph1:
-      "Daily prayers, wearing harmony-generating gemstones, and regular puja bring long-term peace. Analyzing birth charts to identify potential areas of conflict and offering remedies for harmony. Specifically, the 4th house in Vedic astrology, known as the 'House of Happiness,' is crucial for understanding emotional security and family dynamics. Planets like Rahu and Ketu, along with doshas like Mangal Dosha, can also contribute to family disharmony.",
+      "Daily prayers, wearing harmony-generating gemstones, and regular pujas can ensure long-term peace. Psychic Krishna Sai, a renowned Family Problem Specialist, highlights the importance of balancing the 4th house, known as the 'House of Happiness,' to restore emotional security and family bonding.",
     imageSrc:
       "https://astrotalk.com/astrology-blog/wp-content/uploads/2020/01/Astrological-Remedies-to-Bring-Happiness-in-Your-Home-e1580479277272.jpeg",
     paragraph2:
-      "Keeping your home Vastu-balanced can also restore emotional warmth. Astrology helps pinpoint the specific planets, houses, and aspects causing problems, providing a deeper understanding of the issues. For instance, Rahu’s influence can lead to deceit and misunderstandings, while Ketu can cause detachment and lack of communication.",
+      "Vastu corrections in the home also play a vital role in restoring harmony. Rahu can cause deceit and misunderstandings, while Ketu often results in detachment and lack of communication. These influences can be neutralized with the right remedies.",
     paragraph3:
-      "Approaching an Aries with directness and assertiveness is recommended, while approaching a Pisces requires empathy and understanding. Astrology lights the way for a loving and respectful family environment.",
+      "Astrology, when guided by Psychic Krishna Sai, lights the way for a loving and respectful family environment where peace and happiness can flourish.",
   },
 ];
 

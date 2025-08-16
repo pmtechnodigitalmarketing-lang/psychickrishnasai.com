@@ -70,20 +70,20 @@ export default function AboutSection() {
           transition={{ duration: 0.6 }}
           className="text-gray-700 leading-relaxed"
         >
-         psychic krishna sai in USA with 25 years of experience in Astrology, Vastu-Shastra & Spiritualism. Astro means Astrology or Jyotisha and Science means its study. This study of science is completely based on the impact of planetary forces on the life on earth. Astro means Astrology or Jyotisha and Science means its study. This study of science is completely based on the impact of planetary forces on the life on earth. Be it human beings, or animals, or trees and plants, whoever has life on planet earth for them there is a certain astrological impact. Astroscience is in depth study and research of Planets, Zodiac signs from Aries to Pisces.
+         <b>Psychic krishna Sai </b>in USA with 25 years of experience in Astrology, Vastu-Shastra , <b>Palm Specialist</b> & <b>Black Magic Specialist</b>. Astro means Astrology or Jyotisha and Science means its study. This study of science is completely based on the impact of planetary forces on the life on earth. Astro means Astrology or Jyotisha and Science means its study. This study of science is completely based on the impact of planetary forces on the life on earth. Be it human beings, or animals, or trees and plants, whoever has life on planet earth for them there is a certain astrological impact. Astroscience is in depth study and research of Planets, Zodiac signs from Aries to Pisces.
         </motion.p>
 
         {/* Quote */}
         
 
-        {/* Additional Text */}
+        {/* Additional Text */} 
         <motion.p
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6 }}
           className="text-gray-700 leading-relaxed"
         >
-          Many areas of our life like our Personality, Characteristics, our Taste, Behavior and Looks can be easily derived by analyzing these things in the Horoscope. Infact, Astrology can also reveal many things from your Past, Present and Future. Vedic Astrology or Jyotisha can play a very important role for providing guidance about your Career field, Relationships, Education, Finance, and astrology also precisely predicts about your Health matters.
+          Many areas of our life like our Personality, Characteristics, our Taste, Behavior and Looks can be easily derived by analyzing these things in the Horoscope. Infact, <b>Psychic krishna Sai</b> can also reveal many things from your Past, Present and Future. Vedic Astrology or Jyotisha can play a very important role for providing guidance about your Career field, Relationships, Education, Finance, and astrology also precisely predicts about your Health matters.
             
         </motion.p>
 
