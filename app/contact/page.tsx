@@ -12,12 +12,14 @@ export default function Contact() {
     message: "",
   });
 
-  const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
+  const handleChange = (
+    e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>,
+  ) => {
     setForm({ ...form, [e.target.name]: e.target.value });
   };
 
   const handleWhatsAppSend = () => {
-    const phoneNumber = "19295133283";
+    const phoneNumber = "19296917101";
     const text = `Name: ${form.name}%0ASubject: ${form.subject}%0APhone: ${form.phone}%0AEmail: ${form.email}%0AMessage: ${form.message}`;
     window.open(`https://wa.me/${phoneNumber}?text=${text}`, "_blank");
   };
@@ -38,8 +40,8 @@ export default function Contact() {
             Contact Us
           </h1>
           <p className="text-lg md:text-2xl text-yellow-200 mb-4 text-center max-w-2xl">
-            Reach out for guidance, appointments, or any questions. We’re here to
-            help you!
+            Reach out for guidance, appointments, or any questions. We’re here
+            to help you!
           </p>
         </div>
       </section>
@@ -124,16 +126,14 @@ export default function Contact() {
               Astrology
             </p>
             <p className="text-gray-700 mb-2">
-              📍 213 Lexington Ave, Jersey City, NJ 07304
+              📍 900 Bergen Ave # 2, Jersey City, NJ 07306
             </p>
-            <p className="text-gray-700 mb-2">
-              ✉️ psychicsaikrishna46@gmail.com
-            </p>
+            <p className="text-gray-700 mb-2">✉️ ganeshmaster293@gmail.com</p>
             <a
-              href="tel:+19295133283"
+              href="tel:+19296917101"
               className="text-green-700 font-bold hover:underline"
             >
-              📞 +1 (929) 513-3283
+              📞 +1(929) 691-7101
             </a>
           </div>
         </div>

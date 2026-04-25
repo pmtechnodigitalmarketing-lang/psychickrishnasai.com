@@ -1,13 +1,13 @@
-'use client';
+"use client";
 
-import React from 'react';
-import { FaBuilding, FaUserTie, FaGlobe, FaBullseye } from 'react-icons/fa';
+import React from "react";
+import { FaBuilding, FaUserTie, FaGlobe, FaBullseye } from "react-icons/fa";
 
 const stats = [
-  { icon: <FaBuilding />, number: '200', label: 'Offices Worldwide' },
-  { icon: <FaUserTie />, number: '800', label: 'Skilled Astrologers' },
-  { icon: <FaGlobe />, number: '60', label: 'Countries Covered' },
-  { icon: <FaBullseye />, number: '30', label: 'Years Of Experiences' },
+  { icon: <FaBuilding />, number: "200", label: "Offices Worldwide" },
+  { icon: <FaUserTie />, number: "800", label: "Skilled Astrologers" },
+  { icon: <FaGlobe />, number: "60", label: "Countries Covered" },
+  { icon: <FaBullseye />, number: "30", label: "Years Of Experiences" },
 ];
 
 const StatsSection: React.FC = () => {
@@ -25,7 +25,8 @@ const StatsSection: React.FC = () => {
           Now <span className="text-orange-500">We Have</span>
         </h2>
         <p className="mt-4 mb-10 max-w-3xl mx-auto text-base md:text-lg text-gray-200">
-          Astrology is used for birth chart analysis, prediction, and gaining insights into personality, relationships, and life events.
+          Astrology is used for birth chart analysis, prediction, and gaining
+          insights into personality, relationships, and life events.
         </p>
       </div>
 
@@ -40,7 +41,9 @@ const StatsSection: React.FC = () => {
               <div className="text-white text-5xl border-2 border-dotted border-white p-5 rounded-full mb-4">
                 {item.icon}
               </div>
-              <h3 className="text-orange-500 text-3xl font-bold mb-1">{item.number}</h3>
+              <h3 className="text-orange-500 text-3xl font-bold mb-1">
+                {item.number}
+              </h3>
               <p className="text-lg font-semibold">{item.label}</p>
             </div>
           ))}

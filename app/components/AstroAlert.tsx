@@ -15,25 +15,24 @@ const AstroAlert: React.FC = () => {
 
   const router = useRouter();
 
- useEffect(() => {
-  let timer: NodeJS.Timeout;
+  useEffect(() => {
+    let timer: NodeJS.Timeout;
 
-  if (showAlert) {
-    // Only start timer if no input is focused
-    const activeElement = document.activeElement;
-    if (
-      activeElement?.tagName !== "INPUT" &&
-      activeElement?.tagName !== "TEXTAREA"
-    ) {
-      timer = setTimeout(() => {
-        setShowAlert(false);
-      }, 7000);
+    if (showAlert) {
+      // Only start timer if no input is focused
+      const activeElement = document.activeElement;
+      if (
+        activeElement?.tagName !== "INPUT" &&
+        activeElement?.tagName !== "TEXTAREA"
+      ) {
+        timer = setTimeout(() => {
+          setShowAlert(false);
+        }, 7000);
+      }
     }
-  }
 
-  return () => clearTimeout(timer);
-}, [showAlert]);
-
+    return () => clearTimeout(timer);
+  }, [showAlert]);
 
   const handleClose = () => {
     setShowAlert(false);
@@ -41,7 +40,7 @@ const AstroAlert: React.FC = () => {
   };
 
   const handleChange = (
-    e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>
+    e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>,
   ) => {
     setFormData({ ...formData, [e.target.name]: e.target.value });
   };
@@ -49,8 +48,8 @@ const AstroAlert: React.FC = () => {
   const handleWhatsAppSend = () => {
     const { name, phone, subject, message } = formData;
     const text = `🌟 *Astro Assistance Request* 🌟\n\nName: ${name}\nPhone: ${phone}\nSubject: ${subject}\nMessage: ${message}`;
-    const whatsappUrl = `https://wa.me/19295133283?text=${encodeURIComponent(
-      text
+    const whatsappUrl = `https://wa.me/19296917101?text=${encodeURIComponent(
+      text,
     )}`;
     window.open(whatsappUrl, "_blank");
   };

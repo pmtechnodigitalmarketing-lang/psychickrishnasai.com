@@ -6,14 +6,13 @@ import { MdEmail } from "react-icons/md";
 const ContactInfo: React.FC = () => {
   return (
     <div className="max-w-5xl mx-auto px-4 py-12 grid grid-cols-1 sm:grid-cols-3 gap-8">
-      
       <div className="bg-white rounded-xl shadow-lg p-8 text-center hover:shadow-2xl transition-shadow duration-300">
         <div className="mx-auto mb-4 w-16 h-16 flex items-center justify-center rounded-full bg-indigo-600 text-white text-3xl">
           <GoLocation />
         </div>
         <h3 className="text-xl font-semibold text-gray-900 mb-2">Address</h3>
         <p className="text-gray-600 leading-relaxed text-sm">
-          213 Lexington Ave, Jersey City, NJ 07304
+          900 Bergen Ave # 2, Jersey City, NJ 07306
         </p>
       </div>
 
@@ -23,10 +22,10 @@ const ContactInfo: React.FC = () => {
         </div>
         <h3 className="text-xl font-semibold text-gray-900 mb-2">Phone</h3>
         <a
-          href="tel:+1(929) 513-3283"
+          href="tel:+1(929) 691-7101"
           className="block text-indigo-600 font-medium text-sm hover:underline"
         >
-          +1(929) 513-3283
+          +1(929) 691-7101
         </a>
       </div>
 
@@ -36,13 +35,12 @@ const ContactInfo: React.FC = () => {
         </div>
         <h3 className="text-xl font-semibold text-gray-900 mb-2">Email</h3>
         <a
-          href="mailto:psychicsaikrishna46@gmail.com"
+          href="mailto:ganeshmaster293@gmail.com"
           className="block text-indigo-600 font-medium text-sm hover:underline"
         >
-          psychicsaikrishna46@gmail.com
+          ganeshmaster293@gmail.com
         </a>
       </div>
-      
     </div>
   );
 };

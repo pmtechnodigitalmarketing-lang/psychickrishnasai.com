@@ -23,15 +23,10 @@ export default function ServicesShowcase() {
 
   return (
     <section className="bg-gradient-to-b from-orange-50 to-white py-16 px-4 relative overflow-hidden">
-      <div
-        className="absolute inset-0 flex justify-center items-center pointer-events-none"
-      >
-        <div
-          className="bg-[url('/images/home/section.png')] bg-center bg-no-repeat bg-contain opacity-10 w-full h-full"
-        ></div>
+      <div className="absolute inset-0 flex justify-center items-center pointer-events-none">
+        <div className="bg-[url('/images/home/section.png')] bg-center bg-no-repeat bg-contain opacity-10 w-full h-full"></div>
       </div>
       <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-12 items-center relative">
-
         {/* LEFT - Layered Carousel */}
         <motion.div
           className="relative flex justify-center md:justify-end items-center w-full ml-[-30px] md:ml-0"
@@ -127,10 +122,12 @@ export default function ServicesShowcase() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: 0.4 }}
           >
-            Under the divine guidance of <strong>Master Krishna Sai</strong>, we embrace wisdom,
-            compassion, and spiritual growth. His teachings inspire us to walk the path of
-            positivity, discipline, and self-discovery. Through his profound knowledge and kindness,
-            countless lives have been touched, bringing harmony and purpose to every seeker.
+            Under the divine guidance of <strong>Master Krishna Sai</strong>, we
+            embrace wisdom, compassion, and spiritual growth. His teachings
+            inspire us to walk the path of positivity, discipline, and
+            self-discovery. Through his profound knowledge and kindness,
+            countless lives have been touched, bringing harmony and purpose to
+            every seeker.
           </motion.p>
 
           {/* Services Grid */}
@@ -168,7 +165,7 @@ export default function ServicesShowcase() {
             </Link>
           </motion.div>
           {/* Emergency Contact Box */}
-          <a href="tel:+1(929) 513-3283">
+          <a href="tel:+19296917101">
             <motion.div
               className="mt-12 flex items-center gap-4 bg-blue-950 p-4 rounded-lg shadow-lg max-w-sm mx-auto md:mx-0 transition"
               initial={{ opacity: 0, y: 20 }}
@@ -190,13 +187,13 @@ export default function ServicesShowcase() {
                 <p className="text-white font-bold text-lg">+1(929) 513-3283</p>
                 <div className="flex gap-2">
                   <a
-                    href="tel:19295133283"
+                    href="tel:19296917101"
                     className="inline-block px-3 py-1 bg-blue-600 text-white rounded-full text-xs font-semibold hover:bg-blue-700 transition"
                   >
                     Call Now
                   </a>
                   <a
-                    href="https://wa.me/19295133283"
+                    href="https://wa.me/19296917101"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-block px-3 py-1 bg-green-500 text-white rounded-full text-xs font-semibold hover:bg-green-600 transition"
@@ -207,8 +204,6 @@ export default function ServicesShowcase() {
               </div>
             </motion.div>
           </a>
-
-
         </div>
       </div>
     </section>
