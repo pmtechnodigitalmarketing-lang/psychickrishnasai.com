@@ -165,7 +165,7 @@ export default function ServicesShowcase() {
             </Link>
           </motion.div>
           {/* Emergency Contact Box */}
-          <a href="tel:+19296917101">
+          <a href="tel:+1(973) 281-6379">
             <motion.div
               className="mt-12 flex items-center gap-4 bg-blue-950 p-4 rounded-lg shadow-lg max-w-sm mx-auto md:mx-0 transition"
               initial={{ opacity: 0, y: 20 }}
@@ -193,7 +193,7 @@ export default function ServicesShowcase() {
                     Call Now
                   </a>
                   <a
-                    href="https://wa.me/19296917101"
+                    href="https://wa.me/19732816379"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-block px-3 py-1 bg-green-500 text-white rounded-full text-xs font-semibold hover:bg-green-600 transition"

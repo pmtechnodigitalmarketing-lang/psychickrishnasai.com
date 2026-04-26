@@ -11,9 +11,7 @@ const ContactInfo: React.FC = () => {
           <GoLocation />
         </div>
         <h3 className="text-xl font-semibold text-gray-900 mb-2">Address</h3>
-        <p className="text-gray-600 leading-relaxed text-sm">
-          900 Bergen Ave # 2, Jersey City, NJ 07306
-        </p>
+        <p className="text-gray-600 leading-relaxed text-sm">Jersey City</p>
       </div>
 
       <div className="bg-white rounded-xl shadow-lg p-8 text-center hover:shadow-2xl transition-shadow duration-300">
@@ -22,10 +20,10 @@ const ContactInfo: React.FC = () => {
         </div>
         <h3 className="text-xl font-semibold text-gray-900 mb-2">Phone</h3>
         <a
-          href="tel:+1(929) 691-7101"
+          href="tel:+1(973) 281-6379"
           className="block text-indigo-600 font-medium text-sm hover:underline"
         >
-          +1(929) 691-7101
+          +1(973) 281-6379
         </a>
       </div>
 
@@ -35,10 +33,10 @@ const ContactInfo: React.FC = () => {
         </div>
         <h3 className="text-xl font-semibold text-gray-900 mb-2">Email</h3>
         <a
-          href="mailto:ganeshmaster293@gmail.com"
+          href="mailto:ullasraghu465gmail.com"
           className="block text-indigo-600 font-medium text-sm hover:underline"
         >
-          ganeshmaster293@gmail.com
+          ullasraghu465gmail.com
         </a>
       </div>
     </div>

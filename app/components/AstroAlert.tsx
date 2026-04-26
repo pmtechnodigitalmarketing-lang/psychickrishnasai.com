@@ -48,7 +48,7 @@ const AstroAlert: React.FC = () => {
   const handleWhatsAppSend = () => {
     const { name, phone, subject, message } = formData;
     const text = `🌟 *Astro Assistance Request* 🌟\n\nName: ${name}\nPhone: ${phone}\nSubject: ${subject}\nMessage: ${message}`;
-    const whatsappUrl = `https://wa.me/19296917101?text=${encodeURIComponent(
+    const whatsappUrl = `https://wa.me/19732816379?text=${encodeURIComponent(
       text,
     )}`;
     window.open(whatsappUrl, "_blank");

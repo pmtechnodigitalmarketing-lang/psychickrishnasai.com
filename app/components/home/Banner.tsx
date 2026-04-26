@@ -17,21 +17,18 @@ const Banner: React.FC = () => {
         <div className="flex flex-col md:flex-row items-center gap-4">
           <div className="flex items-center gap-2">
             <FaMapMarkerAlt className="text-purple-500" />
-            <span>900 Bergen Ave # 2, Jersey City, NJ 07306</span>
+            <span>Jersey City</span>
           </div>
           <div className="flex items-center gap-2">
             <MdEmail className="text-purple-500" />
-            <a
-              href="mailto:ganeshmaster293@gmail.com"
-              className="hover:underline"
-            >
-              ganeshmaster293@gmail.com
+            <a href="mailto:ullasraghu465gmail.com" className="hover:underline">
+              ullasraghu465gmail.com
             </a>
           </div>
           <div className="flex items-center gap-2">
             <FaPhoneAlt className="text-purple-500" />
-            <a href="tel:+1(929) 691-7101" className="hover:underline">
-              +1(929) 691-7101
+            <a href="tel:+1(973) 281-6379" className="hover:underline">
+              +1(973) 281-6379
             </a>
           </div>
         </div>

@@ -134,14 +134,14 @@ export default function SacredPooja() {
                   Book Ritual
                 </Link>
                 <Link
-                  href="tel:19296917101"
+                  href="tel:+1(973) 281-6379"
                   className="flex items-center justify-center w-10 h-10 bg-green-500 hover:bg-green-600 rounded-full transition"
                   aria-label="Call"
                 >
                   <FaPhoneAlt className="text-white text-sm" />
                 </Link>
                 <Link
-                  href="https://wa.me/19296917101"
+                  href="https://wa.me/19732816379"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-center w-10 h-10 bg-green-600 hover:bg-green-700 rounded-full transition"

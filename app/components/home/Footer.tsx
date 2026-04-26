@@ -1,24 +1,18 @@
 import Link from "next/link";
-import {
-  FaInstagram,
-  FaYoutube,
-  FaFacebookF,
-  FaTwitter,
-} from "react-icons/fa";
+import { FaInstagram, FaYoutube, FaFacebookF, FaTwitter } from "react-icons/fa";
 
 export default function Footer() {
   return (
     <footer className="bg-[#1e1e28] text-gray-300 pt-12 pb-6">
       <div className="max-w-7xl mx-auto px-4 grid gap-8 md:grid-cols-4">
-
         {/* About */}
         <div>
           <h3 className="text-xl font-semibold text-[#f9a826] mb-4">
             About Us
           </h3>
           <p className="text-sm leading-relaxed">
-            Psychic Krishna Sai offering love marriage, love problem, and palm reading
-            services with trusted guidance grounded in Vedic wisdom.
+            Psychic Krishna Sai offering love marriage, love problem, and palm
+            reading services with trusted guidance grounded in Vedic wisdom.
           </p>
         </div>
 
@@ -44,17 +38,26 @@ export default function Footer() {
               </Link>
             </li>
             <li>
-              <Link href="/services/family-problems" className="hover:text-white">
+              <Link
+                href="/services/family-problems"
+                className="hover:text-white"
+              >
                 Family Problem
               </Link>
             </li>
             <li>
-              <Link href="/services/negative-energy" className="hover:text-white">
+              <Link
+                href="/services/negative-energy"
+                className="hover:text-white"
+              >
                 Negative Energy
               </Link>
             </li>
             <li>
-              <Link href="/services/business-problems" className="hover:text-white">
+              <Link
+                href="/services/business-problems"
+                className="hover:text-white"
+              >
                 Business Problem
               </Link>
             </li>
@@ -64,7 +67,10 @@ export default function Footer() {
               </Link>
             </li>
             <li>
-              <Link href="/services/health-problem" className="hover:text-white">
+              <Link
+                href="/services/health-problem"
+                className="hover:text-white"
+              >
                 Health Problem
               </Link>
             </li>
@@ -83,27 +89,21 @@ export default function Footer() {
 
         {/* Contact */}
         <div>
-          <h3 className="text-xl font-semibold text-[#f9a826] mb-4">
-            Contact
-          </h3>
+          <h3 className="text-xl font-semibold text-[#f9a826] mb-4">Contact</h3>
           <ul className="text-sm space-y-2">
             <li>
               📞{" "}
-              <a href="tel:+1(929) 513-3283" className="hover:text-white">
-                +1(929) 513-3283
+              <a href="tel:+1(973) 281-6379" className="hover:text-white">
+                +1(973) 281-6379
               </a>
             </li>
-            <li>
-              📍  213 Lexington Ave, Jersey City, NJ 07304
-            </li>
+            <li>📍 Jersey City</li>
           </ul>
         </div>
 
         {/* Social */}
         <div>
-          <h3 className="text-xl font-semibold text-[#f9a826] mb-4">
-            Follow
-          </h3>
+          <h3 className="text-xl font-semibold text-[#f9a826] mb-4">Follow</h3>
           <div className="flex gap-3">
             <a
               href="https://instagram.com/yourprofile"

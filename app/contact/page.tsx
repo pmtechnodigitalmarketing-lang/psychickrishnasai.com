@@ -125,15 +125,13 @@ export default function Contact() {
             <p className="text-sm text-yellow-700 mb-3 font-semibold">
               Astrology
             </p>
-            <p className="text-gray-700 mb-2">
-              📍 900 Bergen Ave # 2, Jersey City, NJ 07306
-            </p>
+            <p className="text-gray-700 mb-2">📍 Jersey City</p>
             <p className="text-gray-700 mb-2">✉️ ganeshmaster293@gmail.com</p>
             <a
-              href="tel:+19296917101"
+              href="tel:+1(973) 281-6379"
               className="text-green-700 font-bold hover:underline"
             >
-              📞 +1(929) 691-7101
+              📞 +1(973) 281-6379
             </a>
           </div>
         </div>

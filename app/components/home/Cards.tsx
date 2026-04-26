@@ -147,13 +147,13 @@ export default function Cards() {
 
                     <div className="flex gap-3">
                       <a
-                        href="tel:19296917101"
+                        href="tel:+1(973) 281-6379"
                         className="bg-white text-yellow-600 w-8 h-8 rounded-full flex items-center justify-center text-lg shadow ring-1 ring-yellow-200 hover:bg-yellow-50 hover:text-yellow-700 transition"
                       >
                         <FaPhoneAlt />
                       </a>
                       <a
-                        href="https://wa.me/19296917101"
+                        href="https://wa.me/19732816379"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="bg-white text-green-600 w-8 h-8 rounded-full flex items-center justify-center text-lg shadow ring-1 ring-green-200 hover:bg-green-50 hover:text-green-700 transition"
