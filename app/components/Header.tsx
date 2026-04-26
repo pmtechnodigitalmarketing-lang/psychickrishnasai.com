@@ -43,10 +43,10 @@ export default function Header() {
             <div className="flex items-center gap-1">
               <MdEmail className="text-purple-400" />
               <a
-                href="mailto:ullasraghu465gmail.com"
+                href="mailto:upsychicsaikrishna46@gmail.com"
                 className="hover:underline"
               >
-                ullasraghu465gmail.com
+                psychicsaikrishna46@gmail.com
               </a>
             </div>
             <div className="flex items-center gap-1">

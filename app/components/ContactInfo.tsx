@@ -33,10 +33,10 @@ const ContactInfo: React.FC = () => {
         </div>
         <h3 className="text-xl font-semibold text-gray-900 mb-2">Email</h3>
         <a
-          href="mailto:ullasraghu465gmail.com"
+          href="mailto:psychicsaikrishna46@gmail.com"
           className="block text-indigo-600 font-medium text-sm hover:underline"
         >
-          ullasraghu465gmail.com
+          psychicsaikrishna46@gmail.com
         </a>
       </div>
     </div>

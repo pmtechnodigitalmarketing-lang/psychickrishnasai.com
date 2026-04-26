@@ -21,8 +21,11 @@ const Banner: React.FC = () => {
           </div>
           <div className="flex items-center gap-2">
             <MdEmail className="text-purple-500" />
-            <a href="mailto:ullasraghu465gmail.com" className="hover:underline">
-              ullasraghu465gmail.com
+            <a
+              href="mailto:psychicsaikrishna46@gmail.com"
+              className="hover:underline"
+            >
+              psychicsaikrishna46@gmail.com
             </a>
           </div>
           <div className="flex items-center gap-2">
