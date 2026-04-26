@@ -38,7 +38,7 @@ export default function Header() {
           <div className="flex flex-col md:flex-row items-center gap-2 md:gap-4 text-center md:text-left">
             <div className="flex items-center gap-1">
               <FaMapMarkerAlt className="text-purple-400" />
-              <span>900 Bergen Ave # 2, Jersey City, NJ 07306</span>
+              <span>Jersey City</span>
             </div>
             <div className="flex items-center gap-1">
               <MdEmail className="text-purple-400" />

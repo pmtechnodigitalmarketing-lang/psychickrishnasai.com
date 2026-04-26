@@ -184,10 +184,10 @@ export default function ServicesShowcase() {
               </div>
               <div className="flex flex-col gap-2">
                 <p className="text-white text-sm">Emergency Contact</p>
-                <p className="text-white font-bold text-lg">+1(929) 513-3283</p>
+                <p className="text-white font-bold text-lg">+1(973) 281-6379</p>
                 <div className="flex gap-2">
                   <a
-                    href="tel:19296917101"
+                    href="tel:19732816379"
                     className="inline-block px-3 py-1 bg-blue-600 text-white rounded-full text-xs font-semibold hover:bg-blue-700 transition"
                   >
                     Call Now
